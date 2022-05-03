@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Маргарита Стефанцова](https://up.htmlacademy.ru/ecmascript/17/user/1542663).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Долгов] (https://up.htmlacademy.ru/javascript/24/user/2047221).
 
 ---
 
